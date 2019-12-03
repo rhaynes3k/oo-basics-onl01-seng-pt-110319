@@ -44,7 +44,7 @@ class Shoe
   end
   
   def shoe_new
-    self.@condition = "New"
+    self.condition = "New"
   end
 end
 # Make your shoe class here!
